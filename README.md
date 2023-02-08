@@ -1,5 +1,6 @@
 # Codestates AI Bootcamp Project
-# Fetal Cardiotocogram Analysis Modeling
+
+[Project Video Link](https://youtu.be/PgAxoNWvMR0)
 # 태아 초음파검사 분석 모델링
 
 ## 문제 정의
